@@ -1,0 +1,14 @@
+interface:
+  display_name: Webdesign
+  short_description: Code-first Astro, Tailwind and Figma design workflow
+  default_prompt: Use $webdesign to build a code-first Astro and Tailwind foundation
+    and translate its tokens and components to Figma.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
